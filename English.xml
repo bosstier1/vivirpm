@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Log>
+    <Одеваем>Equiping XXX</Одеваем>
+    <Начало_рыбалки>Fishing started</Начало_рыбалки>
+    <Рыбалка_остановлена>Fishing stopped</Рыбалка_остановлена>
+    <Кастуем>Casting XXX</Кастуем>
+    <Пьем>Drinking XXX</Пьем>
+    <Нажимаем_дополнительную_кнопку_>Pressing additional button</Нажимаем_дополнительную_кнопку_>
+    <Используем>Using XXX</Используем>
+    <Применяем>Applying XXX</Применяем>
+    <Персонаж_в_воде>Character swims</Персонаж_в_воде>
+    <Подпрыгиваем_для_поднятия_на_воду>Jumping to get over water</Подпрыгиваем_для_поднятия_на_воду>
+    <Нет_бафов_для_хождения_по_воде>No buffs for water walking</Нет_бафов_для_хождения_по_воде>
+    <Нет_удочки>No fishing rod</Нет_удочки>
+    <Рыбка_поймана>Fish is caught</Рыбка_поймана>
+    <Рыбка_сорвалась>Fish is missed :)</Рыбка_сорвалась>
+    <Забрасываем_удочку>Cast fishing</Забрасываем_удочку>
+    <Автовыключение>Automatic turn off</Автовыключение>
+    <Портуемся_в_таверну>Hearth to the tavern</Портуемся_в_таверну>
+    <Пауза>Pause XXX s</Пауза>
+    <Перезаходим>Reconnecting</Перезаходим>
+    <Перезашли>Reconnection successful</Перезашли>
+    <Открываем>Opening XXX</Открываем>
+    <Выбрасываем>Deleting XXX</Выбрасываем>
+    <ОК>[SC][</ОК>
+    <ЛС>[WH][</ЛС>
+    <Перемещение_разворот_персонажа>Move/turn the character</Перемещение_разворот_персонажа>
+    <Персонажа_убили>Character was killed</Персонажа_убили>
+    <Персонаж_в_поле_зрения>Character in view</Персонаж_в_поле_зрения>
+    <Произошел_дисконект>Disconnected</Произошел_дисконект>
+    <Сумки_заполнены>Inventory is full</Сумки_заполнены>
+    <Закончилось_триальное_время>Trial time is over</Закончилось_триальное_время>
+    <Время_автовыключения>Automatic turn off time</Время_автовыключения>
+    <Рыбачте_ближе_к_Нату_Пэглу>Get closer to Nat Pagle to get buffed</Рыбачте_ближе_к_Нату_Пэглу>
+    <Взаимодействуем_с_Натом_Пэглом>Trying to interact with Nat Pagle</Взаимодействуем_с_Натом_Пэглом>
+    <Не_удалось_пообщаться_с_Натом_Пэглом>Failed to interact with Nat Pagle</Не_удалось_пообщаться_с_Натом_Пэглом>
+    <Бафаем_XXX_у_Ната_Пэгла>Getting XXX buff from Nat Pagle</Бафаем_XXX_у_Ната_Пэгла>
+    <Лутим_XXX>Loot XXX</Лутим_XXX>
+    <Напал_XXX_атакуем>Attacked by XXX, fighting</Напал_XXX_атакуем>
+    <Игрок>player</Игрок>
+    <Проблеммы_взаимодействия_с_вендором>Vendor interact error</Проблеммы_взаимодействия_с_вендором>
+    <Вендор_не_найден>Vendor was not found.</Вендор_не_найден>
+    <Продажа_вещей_вендору>Selling items...</Продажа_вещей_вендору>
+    <NPC_в_таргете_не_является_вендором>Target NPC is not a vendor</NPC_в_таргете_не_является_вендором>
+    <Достигнуто_допустимое_количество_попыток_перезахода>Maximum number of relog attempts reached.</Достигнуто_допустимое_количество_попыток_перезахода>
+    <Учётная_запись_заблокирована>Account is banned.</Учётная_запись_заблокирована>
+    <Неверный_логин_пароль>Incorrect login/password.</Неверный_логин_пароль>
+    <Подключение>Connecting...</Подключение>
+    <Требуется_подтверждение_соглашения>Agreement confirmation required.</Требуется_подтверждение_соглашения>
+    <Выбираем_учётку>Selecting account...</Выбираем_учётку>
+    <Обнаружена_капча_доп_авторизация>Captcha/additional authorization detected.</Обнаружена_капча_доп_авторизация>
+    <Вводим_данные_и_логинимся>Entering data and logging in...</Вводим_данные_и_логинимся>
+    <Выбор_реалма>Selecting realm...</Выбор_реалма>
+    <Реалм_не_найден>Realm not found.</Реалм_не_найден>
+    <Выбор_персонажа>Selecting character...</Выбор_персонажа>
+    <Персонаж_отсутствует>Character not found.</Персонаж_отсутствует>
+    <Персонажей_нет_на_реалме>No characters on this realm.</Персонажей_нет_на_реалме>
+    <Пауза_перед_попыткой_0_1_сек>Pause before attempt {0}: {1} sec.</Пауза_перед_попыткой_0_1_сек>
+    <Очередь_мы_0_е>Queue, we are {0}-th.</Очередь_мы_0_е>
+    <Неверный_реалм_0_Меняем>Wrong realm ({0}). Switching...</Неверный_реалм_0_Меняем>
+
+  </Log>
+
+<Messages>
+  <Время_должно_быть_целым_числом>The shutdown time must be an integer.</Время_должно_быть_целым_числом>
+  <Не_возможно_преобразовать_текст>Unable to convert the specified Action Button text into a key combination. Only a single character or combinations like f1, f2, c1 (Ctrl + 1), cs2 (Ctrl + Shift + 2), casf3 (Ctrl + Alt + Shift + F3), etc. are allowed. The field also must not be empty.</Не_возможно_преобразовать_текст>
+  <Окно_игры_не_найдено>Game window not found.
+
+If the game window exists, check that the 32-bit client is running instead of the 64-bit one.</Окно_игры_не_найдено>
+  <Неподдерживаемая_версия_игры>You are trying to use the bot on an unsupported version of the game.
+
+Most likely, a new game patch has been released since your last use, and you should download the latest version of the bot adapted for this patch.</Неподдерживаемая_версия_игры>
+  <У_вас_последняя_версия>You already have the latest version, no update required.</У_вас_последняя_версия>
+  <Не_все_данные>You did not provide all necessary data required for relogging.
+
+The disconnect action has been set to "Sound + Stop".</Не_все_данные>
+  <Не_возможно_преобразовать_строку>Unable to convert the string "XXX" into a key combination. Only a single character or combinations like f1, f2, c1 (Ctrl + 1), cs2 (Ctrl + Shift + 2), casf3 (Ctrl + Alt + Shift + F3), etc. are allowed.</Не_возможно_преобразовать_строку>
+  <Невозможно_связаться_с_сервером>Unable to connect to the bot server to verify the codes. Check that nothing is blocking the bot’s internet access and try again.
+
+Until a connection with the server is established, further bot operation is not possible.</Невозможно_связаться_с_сервером>
+  <Ошибка_получения_файлов_обновления>Error receiving update files.</Ошибка_получения_файлов_обновления>
+  <Ошибка_загрузки_файлов_обновления>Error downloading update files.</Ошибка_загрузки_файлов_обновления>
+  <Обновление_прошло_успешно>The update was successful.
+
+The program will restart to apply the changes.</Обновление_прошло_успешно>
+  <Игра_должна_быть_запущена>To retrieve items from bags, the bot must be running while the game is running.</Игра_должна_быть_запущена>
+  <Коды_сохранены_перезапустите_бота>Code saved, please restart the bot.</Коды_сохранены_перезапустите_бота>
+  <Нет_окна_вендора>The vendor window must be open in order to auto-fill the list.</Нет_окна_вендора>
+  <Неверное_действие_запроса_лицензии>Invalid license request action.</Неверное_действие_запроса_лицензии>
+  <Ошибка_сервера_отсутствует_ключ_подписи>Server error: missing signature key.</Ошибка_сервера_отсутствует_ключ_подписи>
+  <Ошибка_сервера_неверный_ключ_подписи>Server error: invalid signature key.</Ошибка_сервера_неверный_ключ_подписи>
+  <Ошибка_подписи_лицензии>License signature error.</Ошибка_подписи_лицензии>
+  <Ошибка_формата_данных>Data format error.</Ошибка_формата_данных>
+  <Неверные_параметры_запроса>Invalid request parameters.</Неверные_параметры_запроса>
+  <Ошибка_сервера_авторизации>Authorization server error.</Ошибка_сервера_авторизации>
+  <Нет_связи_с_сервером_авторизации>No connection to the authorization server.</Нет_связи_с_сервером_авторизации>
+  <BIMSbot_новый_фарм_бот>BIMSbot – new farming bot</BIMSbot_новый_фарм_бот>
+  <MaxDPS_выжимай_максимум>MaxDPS – push your maximum!</MaxDPS_выжимай_максимум>
+</Messages>
+
+
+  <ComboBox>
+    <Автовыключение>Automatic turn off</Автовыключение>
+    <Звук_пауза>Sound alert + Pause</Звук_пауза>
+    <Звук_стоп>Sound alert + Stop</Звук_стоп>
+    <Звуковое_уведомление>Sound notification</Звуковое_уведомление>
+    <Изменить_пароль>Change authorization data</Изменить_пароль>
+    <Перезайти_и_продолжить>Reconnect and continue</Перезайти_и_продолжить>
+    <Выключить_компьютер>Shutdown PC</Выключить_компьютер>
+    <Закрыть_бота_и_WoW>Close bot and WoW</Закрыть_бота_и_WoW>
+    <Продать_мамонту>Use Mammoth to sell</Продать_мамонту>
+  </ComboBox>
+
+  <Tooltips>
+    <Обновить>Update to latest version</Обновить>
+    <Перейти_на_сайт_программы>Visit program website</Перейти_на_сайт_программы>
+    <Показать_Лог>Show log</Показать_Лог>
+    <Изменить_язык>Click to change interface language</Изменить_язык>
+    <Продавать_все_серые_вещи>Sell all gray items</Продавать_все_серые_вещи>
+    <Продавать_все_белые_вещи>Sell all white items</Продавать_все_белые_вещи>
+    <Продавать_все_зеленые_вещи>Sell all green items</Продавать_все_зеленые_вещи>
+    <Продавать_все_синие_вещи>Sell all blue items</Продавать_все_синие_вещи>
+    <Отвечать_при_помощи_AI>Reply using AI (only if Sound notification reaction is selected)</Отвечать_при_помощи_AI>
+  </Tooltips>
+
+  <Forms>
+<Main>
+  <Режим_рыбалки>Fishing mode</Режим_рыбалки>
+  <Ловить_все>Catch all</Ловить_все>
+  <Все_кроме_исключений>All except exclusions</Все_кроме_исключений>
+  <Раскрытие_контейнеров>Container Opening</Раскрытие_контейнеров>
+  <Наживки_улучшения>Lures / Enhancements</Наживки_улучшения>
+  <Реагировать_на>React to</Реагировать_на>
+  <ЛС>WH</ЛС>
+  <ОК>SC</ОК>
+  <Смерть_персонажа>Character death:</Смерть_персонажа>
+  <Проверку_ГМом>Movement/Turn:</Проверку_ГМом>
+  <Полные_сумки>Full bags:</Полные_сумки>
+  <Дисконект>Disconnect:</Дисконект>
+  <Мешающий_игрок>Obstructing player:</Мешающий_игрок>
+  <Длительность_паузы_сек>Pause duration, sec</Длительность_паузы_сек>
+  <Режим_автоотключения>Auto-shutdown mode</Режим_автоотключения>
+  <Автоотключение_мин>Auto-shutdown, min:</Автоотключение_мин>
+  <Телепортация_в_таверну>Teleport to inn</Телепортация_в_таверну>
+  <Под_автовыключением_понимать>Auto-shutdown means</Под_автовыключением_понимать>
+  <Дополнительные_настройки>Advanced settings</Дополнительные_настройки>
+  <Использовать_плот>Use raft</Использовать_плот>
+  <Кнопка_действий>Action Button</Кнопка_действий>
+  <Бафы_хождения_по_воде>Water-walking buffs</Бафы_хождения_по_воде>
+  <Интервал_нажатий_с>Press interval, sec</Интервал_нажатий_с>
+  <BIMSbot__новый_фарм_бот>BIMSbot – new farming bot</BIMSbot__новый_фарм_бот>
+  <MaxDPS__выжимай_максимум>MaxDPS – push your maximum!</MaxDPS__выжимай_максимум>
+  <Начать>Start</Начать>
+  <Стоп>Stop</Стоп>
+  <Выйти>Exit</Выйти>
+  <Отображать_забросы_и_подсечки>Display casts &amp; strikes</Отображать_забросы_и_подсечки>
+  <Лог_действий>Action log:</Лог_действий>
+  <Для>for</Для>
+  <Пробная_30_минут_в_день>Trial version (30 min per day)</Пробная_30_минут_в_день>
+  <Лицензия_1_окно_1_месяц>License: 1 window / 1 month</Лицензия_1_окно_1_месяц>
+  <Лицензия_анлим_1_месяц>License: unlimited windows / 1 month</Лицензия_анлим_1_месяц>
+  <Лицензия_анлим_пожизненно>Lifetime unlimited license</Лицензия_анлим_пожизненно>
+  <Тип_лицензии_неизвестен>License type unknown</Тип_лицензии_неизвестен>
+  <Осталось_времени>Remaining: {0}:{1:D2}</Осталось_времени>
+  <Лицензия_истекает>Expires: {0:dd.MM.yyyy HH:mm}</Лицензия_истекает>
+  <Проверка_лицензии>Checking license...</Проверка_лицензии>
+</Main>
+
+
+    <Authorization>
+      <Авторизация>Authorization</Авторизация>
+      <Логин>Login (e-mail)</Логин>
+      <Пароль>Password</Пароль>
+      <Аккаунт>Account</Аккаунт>
+      <Сервер>Realm</Сервер>
+      <Ник_персонажа>Character name</Ник_персонажа>
+      <Пауза_перед_перезаходом>Pause before reconnect, min</Пауза_перед_перезаходом>
+    </Authorization>
+
+    <SelectGame>
+      <Выбор_игры>Game select</Выбор_игры>
+      <Выберите_персонажа>Select character:</Выберите_персонажа>
+      <Выбрать>Select</Выбрать>
+      <Не_в_игре>Not in game</Не_в_игре>
+    </SelectGame>
+
+    <Exclusions>
+      <Исключения>Exclusions</Исключения>
+      <Выбрасываемые_предметы>Items to delete:</Выбрасываемые_предметы>
+      <Предметы_в_сумках>Items in the bags:</Предметы_в_сумках>
+      <Двойной_клик>Double-click to add item to the list</Двойной_клик>
+    </Exclusions>
+
+    <Lures>
+      <Наживки>Lures</Наживки>
+      <Обычные_наживки>Standard lures</Обычные_наживки>
+      <Использовать_лучшую_наживку>Use lure with best effect</Использовать_лучшую_наживку>
+      <включая_рыбацкие_шляпы>(including fishing hats)</включая_рыбацкие_шляпы>
+      <Дренорские_наживки_для>Draenor bait for:</Дренорские_наживки_для>
+      <Улучшения_Дренора>Draenor improvements</Улучшения_Дренора>
+      <Крюк_из_острой_кости>Bladebone Hook</Крюк_из_острой_кости>
+      <Гарнизон_Дренора>Draenor Garrison</Гарнизон_Дренора>
+      <Призывать_обитателя_пещер>Summon a Cavedweller</Призывать_обитателя_пещер>
+      <Наживки_Легиона>Legion lures</Наживки_Легиона>
+      <Использовать_наживки>Use lures</Использовать_наживки>
+      <Использовать_редкую_рыбу>Use rare fish</Использовать_редкую_рыбу>
+
+      <DraenorLures>
+        <NameItemId>
+          <Name>Jawless Skulker</Name>
+          <ItemID>110274</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Fat Sleeper</Name>
+          <ItemID>110289</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Blind Lake Sturgeon</Name>
+          <ItemID>110290</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Fire Ammonite</Name>
+          <ItemID>110291</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Sea Scorpion</Name>
+          <ItemID>110292</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Abyssal Gulper Eel</Name>
+          <ItemID>110293</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Blackwater Whiptail</Name>
+          <ItemID>110294</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Felmouth Frenzy</Name>
+          <ItemID>128229</ItemID>
+        </NameItemId>
+      </DraenorLures>
+    </Lures>
+
+    <Registration>
+      <Регистрация>Registration</Регистрация>
+      <Код_регистрации>Registration code:</Код_регистрации>
+      <Активировать>Activate</Активировать>
+    </Registration>
+
+    <Containers>
+      <Контейнеры>Containers</Контейнеры>
+      <Открываемые_контейнеры>Containers to open:</Открываемые_контейнеры>
+      <Предметы_в_сумках>Items in the bags:</Предметы_в_сумках>
+      <Двойной_клик>Double-click to add item to the list</Двойной_клик>
+    </Containers>
+
+<Trial>
+  <Триал>Trial</Триал>
+  <Купить>Buy</Купить>
+  <Ввести_ключ>Enter code</Ввести_ключ>
+  <Выход>Exit</Выход>
+  <Лицензия_истекла>License expired</Лицензия_истекла>
+  <Срок_действия_вашей_лицензии_завершён>Your license has expired. To continue using the program — purchase a new activation code. You may also delete the settings file and temporarily use the program in trial mode with limitations.</Срок_действия_вашей_лицензии_завершён>
+  <Пробный_период_завершён>Today’s trial period is over</Пробный_период_завершён>
+  <Вы_использовали_лимит_пробного_времени>You have used up today’s trial time limit. To continue — buy a license or return tomorrow to use the trial again.</Вы_использовали_лимит_пробного_времени>
+  <Лицензия_на_другом_устройстве>License active on another device</Лицензия_на_другом_устройстве>
+  <Лицензия_уже_используется>This license is already in use on another computer. To continue here — close the program there or purchase an additional activation code. You may also temporarily switch to trial mode by deleting the settings file.</Лицензия_уже_используется>
+  <Превышено_число_запусков>Number of simultaneous launches exceeded</Превышено_число_запусков>
+  <Вы_запустили_программу_на_максимуме>You have launched the program on the maximum allowed number of devices or copies. To continue — close extra instances or extend your license. Trial mode can also be enabled by deleting the settings file.</Вы_запустили_программу_на_максимуме>
+  <Лицензия_не_активирована>License not activated</Лицензия_не_активирована>
+  <Чтобы_продолжить_работу_активируйте>To continue, activate the program with a license code or use the trial mode. To enable trial mode, delete the settings file.</Чтобы_продолжить_работу_активируйте>
+</Trial>
+
+
+    <Vendor>
+      <Продажа_ремонт>Sell / repair</Продажа_ремонт>
+      <Ремонтировать_вещи_за_счет_гильдии>Charge guild to repair (if available)</Ремонтировать_вещи_за_счет_гильдии>
+      <Продавать_из_сумок>Sell from bags:</Продавать_из_сумок>
+      <Продавать_предметы_по_фильтру>Sell items by filter:</Продавать_предметы_по_фильтру>
+      <Продавать_предметы_по_цвету>Sell items by color:</Продавать_предметы_по_цвету>
+      <Gray>G</Gray>
+      <White>W</White>
+      <Green>G</Green>
+      <Blue>B</Blue>
+      <Продавать_предметы_с_названием>Sell items with names:</Продавать_предметы_с_названием>
+      <Исключать_из_продажи_предметы_с_названием>Do not sell items with names:</Исключать_из_продажи_предметы_с_названием>
+      <Исключить_из_продажи_ВоЕ>Do not sell blue BoE items</Исключить_из_продажи_ВоЕ>
+      <Продавать_только_следующие>Sell only next:</Продавать_только_следующие>
+      <Продавать_все_кроме>Sell all except:</Продавать_все_кроме>
+      <Купить_недостающие_предметы>Buy missing items</Купить_недостающие_предметы>
+      <Предмет>Item</Предмет>
+      <Шт>pcs.</Шт>
+      <Применить>Apply</Применить>
+      <Отмена>Cancel</Отмена>
+      <Содержимое_ваших_сумок>Items in bags</Содержимое_ваших_сумок>
+      <Двойной_клик_по_предмету>Double click to add item to the list</Двойной_клик_по_предмету>
+    </Vendor>
+  </Forms>
+</Language>

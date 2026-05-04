@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <key>0</key>
+  <ЛовитьВсе>false</ЛовитьВсе>
+  <ЛовитьВсеКроме>true</ЛовитьВсеКроме>
+  <РаскрытиеКонтейнеров>true</РаскрытиеКонтейнеров>
+  <ИспользоватьНаживкуВообще>false</ИспользоватьНаживкуВообще>
+  <ИспользоватьНаживку>true</ИспользоватьНаживку>
+  <ИспользоватьНаживкуЛегиона>true</ИспользоватьНаживкуЛегиона>
+  <ИспользоватьРыбуЛегиона>true</ИспользоватьРыбуЛегиона>
+  <ДренорскиеНаживки />
+  <ВыбрасываемыеПредметы>
+    <string>Пресноводная улитка</string>
+    <string>Пустая бутыль от рома</string>
+    <string>Сочное мясо моллюска</string>
+    <string>Спутанная леска</string>
+    <string>Пустая раковина</string>
+    <string>Потрепанная ткань</string>
+    <string>Больная рыба</string>
+    <string>Палочка</string>
+    <string>Старый башмак</string>
+    <string>Ветка</string>
+    <string>Сорняк</string>
+    <string>Ледяная ткань</string>
+    <string>Обрывки борейской кожи</string>
+    <string>Пресноводная улитка</string>
+    <string>Пустая бутыль от рома</string>
+    <string>Сочное мясо моллюска</string>
+    <string>Спутанная леска</string>
+    <string>Пустая раковина</string>
+    <string>Потрепанная ткань</string>
+    <string>Больная рыба</string>
+    <string>Палочка</string>
+    <string>Старый башмак</string>
+    <string>Ветка</string>
+    <string>Сорняк</string>
+    <string>Ледяная ткань</string>
+    <string>Обрывки борейской кожи</string>
+  </ВыбрасываемыеПредметы>
+  <ОткрываемыеКонтейнеры>
+    <string>Темноводный моллюск</string>
+    <string>Усиленный ящик</string>
+    <string>Темноводный моллюск</string>
+    <string>Усиленный ящик</string>
+    <string>Темноводный моллюск</string>
+    <string>Усиленный ящик</string>
+  </ОткрываемыеКонтейнеры>
+  <ИспользоватьКрюк>false</ИспользоватьКрюк>
+  <ПризыватьОбитателяПещер>true</ПризыватьОбитателяПещер>
+  <UseAI>true</UseAI>
+  <РеагироватьНаЛС>true</РеагироватьНаЛС>
+  <РеагироватьНаОК>true</РеагироватьНаОК>
+  <РеагироватьНаСмерть>false</РеагироватьНаСмерть>
+  <РеагироватьНаПровркуГМом>true</РеагироватьНаПровркуГМом>
+  <РеагироватьНаПолныеСумки>false</РеагироватьНаПолныеСумки>
+  <РеагироватьНаДисконект>false</РеагироватьНаДисконект>
+  <РеагироватьНаИгрока>true</РеагироватьНаИгрока>
+  <РеакцияНаЛСиОК>Автовыключение</РеакцияНаЛСиОК>
+  <РеакцияНаСмерть>Автовыключение</РеакцияНаСмерть>
+  <РеакцияНаГМа>Автовыключение</РеакцияНаГМа>
+  <РеакцияНаСумки>Автовыключение</РеакцияНаСумки>
+  <РеакцияНаДисконект>Автовыключение</РеакцияНаДисконект>
+  <РеакцияНаИгрока>Звук_стоп</РеакцияНаИгрока>
+  <Authorization>
+    <RelogPause>0</RelogPause>
+  </Authorization>
+  <PauseLength>60</PauseLength>
+  <Автоотключение>false</Автоотключение>
+  <ВремяАвтоотключения>60</ВремяАвтоотключения>
+  <ТипАвтовыключения>Закрыть_бота_и_WoW</ТипАвтовыключения>
+  <ТелепортироватьсяВТаверну>true</ТелепортироватьсяВТаверну>
+  <Плот>false</Плот>
+  <БафыХожденияПоВоде>false</БафыХожденияПоВоде>
+  <КнопкаДействийUse>true</КнопкаДействийUse>
+  <КнопкаДействий>ъ</КнопкаДействий>
+  <ИнтервалНажатийКнопкиДействий>60</ИнтервалНажатийКнопкиДействий>
+  <FullLog>false</FullLog>
+  <ФильтрВендора>
+    <FilterMode>true</FilterMode>
+    <OnlyThisItemMode>false</OnlyThisItemMode>
+    <AllExceptThisItemsMode>false</AllExceptThisItemsMode>
+    <Bag0>true</Bag0>
+    <Bag1>true</Bag1>
+    <Bag2>true</Bag2>
+    <Bag3>true</Bag3>
+    <Bag4>true</Bag4>
+    <Grey>true</Grey>
+    <Green>false</Green>
+    <Blue>false</Blue>
+    <White>false</White>
+    <AdditionalItems />
+    <IgnoredItems />
+    <OnlyThisItems />
+    <AllExceptThisItems />
+    <GuildRepair>true</GuildRepair>
+    <BuyItemsUse>false</BuyItemsUse>
+    <BuyItems />
+    <QualityFilterUse>true</QualityFilterUse>
+    <AdditionalItemsFilterUse>false</AdditionalItemsFilterUse>
+    <IgnoredItemsFilterUse>false</IgnoredItemsFilterUse>
+    <SaveBoEBlue>false</SaveBoEBlue>
+  </ФильтрВендора>
+  <Language>Russian.xml</Language>
+</Settings>

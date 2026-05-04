@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Log>
+    <Одеваем>Ausrüsten XXX</Одеваем>
+    <Начало_рыбалки>Angeln gestartet</Начало_рыбалки>
+    <Рыбалка_остановлена>Angeln gestoppt</Рыбалка_остановлена>
+    <Кастуем>Wirken XXX</Кастуем>
+    <Пьем>Trinken XXX</Пьем>
+    <Нажимаем_дополнительную_кнопку_>Zusätzlichen Knopf drücken</Нажимаем_дополнительную_кнопку_>
+    <Используем>Benutze XXX</Используем>
+    <Применяем>Wende XXX an</Применяем>
+    <Персонаж_в_воде>Charakter im Wasser</Персонаж_в_воде>
+    <Подпрыгиваем_для_поднятия_на_воду>Springen, um auf das Wasser zu gelangen</Подпрыгиваем_для_поднятия_на_воду>
+    <Нет_бафов_для_хождения_по_воде>Keine Wasserlauff-Buffs</Нет_бафов_для_хождения_по_воде>
+    <Нет_удочки>Keine Angelrute vorhanden</Нет_удочки>
+    <Рыбка_поймана>Fisch gefangen</Рыбка_поймана>
+    <Рыбка_сорвалась>Fisch entwischt :)</Рыбка_сорвалась>
+    <Забрасываем_удочку>Angel auswerfen</Забрасываем_удочку>
+    <Автовыключение>Automatisches Ausschalten</Автовыключение>
+    <Портуемся_в_таверну>Zum Gasthaus teleportieren</Портуемся_в_таверну>
+    <Пауза>Pause XXX s</Пауза>
+    <Перезаходим>Neu verbinden</Перезаходим>
+    <Перезашли>Erfolgreich neu verbunden</Перезашли>
+    <Открываем>Öffne XXX</Открываем>
+    <Выбрасываем>Lösche XXX</Выбрасываем>
+    <ОК>[AL][</ОК>
+    <ЛС>[FL][</ЛС>
+    <Перемещение_разворот_персонажа>Bewegung / Drehung des Charakters</Перемещение_разворот_персонажа>
+    <Персонажа_убили>Charakter wurde getötet</Персонажа_убили>
+    <Персонаж_в_поле_зрения>Charakter im Sichtfeld</Персонаж_в_поле_зрения>
+    <Произошел_дисконект>Verbindung getrennt</Произошел_дисконект>
+    <Сумки_заполнены>Taschen voll</Сумки_заполнены>
+    <Закончилось_триальное_время>Testzeit abgelaufen</Закончилось_триальное_время>
+    <Время_автовыключения>Zeit des automatischen Ausschaltens</Время_автовыключения>
+    <Рыбачте_ближе_к_Нату_Пэглу>Gehe näher zu Nat Pagle für Buffs</Рыбачте_ближе_к_Нату_Пэглу>
+    <Взаимодействуем_с_Натом_Пэглом>Interagiere mit Nat Pagle</Взаимодействуем_с_Натом_Пэглом>
+    <Не_удалось_пообщаться_с_Натом_Пэглом>Interaktion mit Nat Pagle fehlgeschlagen</Не_удалось_пообщаться_с_Натом_Пэглом>
+    <Бафаем_XXX_у_Ната_Пэгла>Erhalte XXX Buff von Nat Pagle</Бафаем_XXX_у_Ната_Пэгла>
+    <Лутим_XXX>Loot XXX</Лутим_XXX>
+    <Напал_XXX_атакуем>Von XXX angegriffen, kämpfe</Напал_XXX_атакуем>
+    <Игрок>Spieler</Игрок>
+    <Проблеммы_взаимодействия_с_вендором>Fehler bei Händler-Interaktion</Проблеммы_взаимодействия_с_вендором>
+    <Вендор_не_найден>Händler nicht gefunden.</Вендор_не_найден>
+    <Продажа_вещей_вендору>Verkaufe Gegenstände...</Продажа_вещей_вендору>
+    <NPC_в_таргете_не_является_вендором>Ziel-NPC ist kein Händler</NPC_в_таргете_не_является_вендором>
+
+    <!-- NEW -->
+    <Достигнуто_допустимое_количество_попыток_перезахода>Maximale Anzahl der Reconnect-Versuche erreicht.</Достигнуто_допустимое_количество_попыток_перезахода>
+    <Учётная_запись_заблокирована>Account is banned</Учётная_запись_заблокирована>
+    <Неверный_логин_пароль>Falsches Login oder Passwort.</Неверный_логин_пароль>
+    <Подключение>Verbinde...</Подключение>
+    <Требуется_подтверждение_соглашения>Bestätigung der Vereinbarung erforderlich.</Требуется_подтверждение_соглашения>
+    <Выбираем_учётку>Konto wird ausgewählt...</Выбираем_учётку>
+    <Обнаружена_капча_доп_авторизация>Captcha / zusätzliche Autorisierung erkannt.</Обнаружена_капча_доп_авторизация>
+    <Вводим_данные_и_логинимся>Daten eingeben und einloggen...</Вводим_данные_и_логинимся>
+    <Выбор_реалма>Realm wird ausgewählt...</Выбор_реалма>
+    <Реалм_не_найден>Realm nicht gefunden.</Реалм_не_найден>
+    <Выбор_персонажа>Charakter wird ausgewählt...</Выбор_персонажа>
+    <Персонаж_отсутствует>Charakter nicht gefunden.</Персонаж_отсутствует>
+    <Персонажей_нет_на_реалме>Keine Charaktere auf diesem Realm.</Персонажей_нет_на_реалме>
+    <Пауза_перед_попыткой_0_1_сек>Pause vor Versuch {0}: {1} s.</Пауза_перед_попыткой_0_1_сек>
+    <Очередь_мы_0_е>Warteschlange, wir sind {0}.</Очередь_мы_0_е>
+    <Неверный_реалм_0_Меняем>Falscher Realm ({0}). Wechsel...</Неверный_реалм_0_Меняем>
+  </Log>
+
+<Messages>
+  <Время_должно_быть_целым_числом>Die Abschaltzeit muss eine ganze Zahl sein.</Время_должно_быть_целым_числом>
+  <Не_возможно_преобразовать_текст>Der angegebene Aktionstext kann nicht in eine Tastenkombination umgewandelt werden. Es sind nur einzelne Zeichen oder Kombinationen wie f1, f2, c1 (Ctrl + 1), cs2 (Ctrl + Shift + 2), casf3 (Ctrl + Alt + Shift + F3) usw. erlaubt. Das Feld darf außerdem nicht leer sein.</Не_возможно_преобразовать_текст>
+  <Окно_игры_не_найдено>Das Spielfenster wurde nicht gefunden.
+
+Wenn das Spielfenster vorhanden ist, stellen Sie sicher, dass der 32-Bit-Client und nicht der 64-Bit-Client läuft.</Окно_игры_не_найдено>
+  <Неподдерживаемая_версия_игры>Sie versuchen, den Bot auf einer nicht unterstützten Spielversion zu verwenden.
+
+Wahrscheinlich wurde seit Ihrer letzten Nutzung ein neues Spiel-Patch veröffentlicht. Sie sollten die neueste Version des Bots herunterladen, die für dieses Patch angepasst wurde.</Неподдерживаемая_версия_игры>
+  <У_вас_последняя_версия>Sie haben bereits die neueste Version, ein Update ist nicht erforderlich.</У_вас_последняя_версия>
+  <Не_все_данные>Sie haben nicht alle für den erneuten Login erforderlichen Daten angegeben.
+
+Die Aktion bei Disconnect wurde auf „Sound + Stop“ gesetzt.</Не_все_данные>
+  <Не_возможно_преобразовать_строку>Die Zeichenfolge "XXX" kann nicht in eine Tastenkombination umgewandelt werden. Es sind nur einzelne Zeichen oder Kombinationen wie f1, f2, c1, cs2, casf3 usw. erlaubt.</Не_возможно_преобразовать_строку>
+  <Невозможно_связаться_с_сервером>Es ist nicht möglich, eine Verbindung zum Bot-Server zur Code-Überprüfung herzustellen. Stellen Sie sicher, dass nichts den Internetzugang des Bots blockiert und versuchen Sie es erneut.
+
+Ohne Verbindung zum Server ist der Bot nicht funktionsfähig.</Невозможно_связаться_с_сервером>
+  <Ошибка_получения_файлов_обновления>Fehler beim Abrufen der Update-Dateien.</Ошибка_получения_файлов_обновления>
+  <Ошибка_загрузки_файлов_обновления>Fehler beim Herunterladen der Update-Dateien.</Ошибка_загрузки_файлов_обновления>
+  <Обновление_прошло_успешно>Update erfolgreich abgeschlossen.
+
+Das Programm wird neu gestartet, um die Änderungen anzuwenden.</Обновление_прошло_успешно>
+  <Игра_должна_быть_запущена>Um Gegenstände aus den Taschen zu erhalten, muss der Bot bei laufendem Spiel ausgeführt werden.</Игра_должна_быть_запущена>
+  <Коды_сохранены_перезапустите_бота>Code gespeichert, bitte starten Sie den Bot neu.</Коды_сохранены_перезапустите_бота>
+  <Нет_окна_вендора>Zum automatischen Ausfüllen der Liste muss das Händlerfenster geöffnet sein.</Нет_окна_вендора>
+  <Неверное_действие_запроса_лицензии>Ungültige Lizenzanfrage-Aktion.</Неверное_действие_запроса_лицензии>
+  <Ошибка_сервера_отсутствует_ключ_подписи>Serverfehler: Signaturschlüssel fehlt.</Ошибка_сервера_отсутствует_ключ_подписи>
+  <Ошибка_сервера_неверный_ключ_подписи>Serverfehler: ungültiger Signaturschlüssel.</Ошибка_сервера_неверный_ключ_подписи>
+  <Ошибка_подписи_лицензии>Fehler bei der Lizenzsignatur.</Ошибка_подписи_лицензии>
+  <Ошибка_формата_данных>Datenformatfehler.</Ошибка_формата_данных>
+  <Неверные_параметры_запроса>Ungültige Anfrageparameter.</Неверные_параметры_запроса>
+  <Ошибка_сервера_авторизации>Fehler des Autorisierungsservers.</Ошибка_сервера_авторизации>
+  <Нет_связи_с_сервером_авторизации>Keine Verbindung zum Autorisierungsserver.</Нет_связи_с_сервером_авторизации>
+  <BIMSbot_новый_фарм_бот>BIMSbot – der neue Farm-Bot</BIMSbot_новый_фарм_бот>
+  <MaxDPS_выжимай_максимум>MaxDPS – hol das Maximum raus!</MaxDPS_выжимай_максимум>
+</Messages>
+
+
+  <ComboBox>
+    <Автовыключение>Automatisches Ausschalten</Автовыключение>
+    <Звук_пауза>Ton + Pause</Звук_пауза>
+    <Звук_стоп>Ton + Stopp</Звук_стоп>
+    <Звуковое_уведомление>Tonbenachrichtigung</Звуковое_уведомление>
+    <Изменить_пароль>Zugangsdaten ändern</Изменить_пароль>
+    <Перезайти_и_продолжить>Neu verbinden und fortfahren</Перезайти_и_продолжить>
+    <Выключить_компьютер>Computer ausschalten</Выключить_компьютер>
+    <Закрыть_бота_и_WoW>Bot und WoW schließen</Закрыть_бота_и_WoW>
+    <Продать_мамонту>Mammut zum Verkaufen nutzen</Продать_мамонту>
+  </ComboBox>
+
+  <Tooltips>
+    <Обновить>Auf letzte Version aktualisieren</Обновить>
+    <Перейти_на_сайт_программы>Programm-Website öffnen</Перейти_на_сайт_программы>
+    <Показать_Лог>Log anzeigen</Показать_Лог>
+    <Изменить_язык>Klicken, um Sprache zu ändern</Изменить_язык>
+    <Продавать_все_серые_вещи>Alle grauen Gegenstände verkaufen</Продавать_все_серые_вещи>
+    <Продавать_все_белые_вещи>Alle weißen Gegenstände verkaufen</Продавать_все_белые_вещи>
+    <Продавать_все_зеленые_вещи>Alle grünen Gegenstände verkaufen</Продавать_все_зеленые_вещи>
+    <Продавать_все_синие_вещи>Alle blauen Gegenstände verkaufen</Продавать_все_синие_вещи>
+    <Отвечать_при_помощи_AI>Mit AI antworten (nur wenn die Reaktion „Tonbenachrichtigung“ ausgewählt ist)</Отвечать_при_помощи_AI>
+  </Tooltips>
+
+  <Forms>
+<Main>
+  <Режим_рыбалки>Angelmodus</Режим_рыбалки>
+  <Ловить_все>Alles fangen</Ловить_все>
+  <Все_кроме_исключений>Alles außer Ausnahmen</Все_кроме_исключений>
+  <Раскрытие_контейнеров>Behälter öffnen</Раскрытие_контейнеров>
+  <Наживки_улучшения>Köder / Verbesserungen</Наживки_улучшения>
+  <Реагировать_на>Reagieren auf</Реагировать_на>
+  <ЛС>FL</ЛС>
+  <ОК>AL</ОК>
+  <Смерть_персонажа>Tod des Charakters:</Смерть_персонажа>
+  <Проверку_ГМом>Bewegung/Drehung:</Проверку_ГМом>
+  <Полные_сумки>Volle Taschen:</Полные_сумки>
+  <Дисконект>Disconnect:</Дисконект>
+  <Мешающий_игрок>Störender Spieler:</Мешающий_игрок>
+  <Длительность_паузы_сек>Pausendauer, Sek</Длительность_паузы_сек>
+  <Режим_автоотключения>Auto-Abschaltmodus</Режим_автоотключения>
+  <Автоотключение_мин>Auto-Abschaltung, Min:</Автоотключение_мин>
+  <Телепортация_в_таверну>Teleport zur Taverne</Телепортация_в_таверну>
+  <Под_автовыключением_понимать>Unter Auto-Abschaltung verstehen</Под_автовыключением_понимать>
+  <Дополнительные_настройки>Erweiterte Einstellungen</Дополнительные_настройки>
+  <Использовать_плот>Floß benutzen</Использовать_плот>
+  <Кнопка_действий>Aktionstaste</Кнопка_действий>
+  <Бафы_хождения_по_воде>Wasserlauf-Buffs</Бафы_хождения_по_воде>
+  <Интервал_нажатий_с>Tastenintervall, Sek</Интервал_нажатий_с>
+  <BIMSbot__новый_фарм_бот>BIMSbot – der neue Farm-Bot</BIMSbot__новый_фарм_бот>
+  <MaxDPS__выжимай_максимум>MaxDPS – hol das Maximum raus!</MaxDPS__выжимай_максимум>
+  <Начать>Start</Начать>
+  <Стоп>Stopp</Стоп>
+  <Выйти>Beenden</Выйти>
+  <Отображать_забросы_и_подсечки>Würfe &amp; Bisse anzeigen</Отображать_забросы_и_подсечки>
+  <Лог_действий>Aktionslog:</Лог_действий>
+  <Для>für</Для>
+  <Пробная_30_минут_в_день>Testversion (30 Min pro Tag)</Пробная_30_минут_в_день>
+  <Лицензия_1_окно_1_месяц>Lizenz: 1 Fenster / 1 Monat</Лицензия_1_окно_1_месяц>
+  <Лицензия_анлим_1_месяц>Lizenz: unbegrenzte Fenster / 1 Monat</Лицензия_анлим_1_месяц>
+  <Лицензия_анлим_пожизненно>Lebenslange unbegrenzte Lizenz</Лицензия_анлим_пожизненно>
+  <Тип_лицензии_неизвестен>Lizenztyp unbekannt</Тип_лицензии_неизвестен>
+  <Осталось_времени>Verbleibend: {0}:{1:D2}</Осталось_времени>
+  <Лицензия_истекает>Läuft ab: {0:dd.MM.yyyy HH:mm}</Лицензия_истекает>
+  <Проверка_лицензии>Lizenz wird überprüft...</Проверка_лицензии>
+</Main>
+
+
+    <Authorization>
+      <Авторизация>Autorisierung</Авторизация>
+      <Логин>Login (E-Mail)</Логин>
+      <Пароль>Passwort</Пароль>
+      <Аккаунт>Konto</Аккаунт>
+      <Сервер>Realm</Сервер>
+      <Ник_персонажа>Charaktername</Ник_персонажа>
+      <Пауза_перед_перезаходом>Pause vor Reconnect, Min</Пауза_перед_перезаходом>
+    </Authorization>
+
+    <SelectGame>
+      <Выбор_игры>Spiel auswählen</Выбор_игры>
+      <Выберите_персонажа>Charakter auswählen:</Выберите_персонажа>
+      <Выбрать>Wählen</Выбрать>
+      <Не_в_игре>Nicht im Spiel</Не_в_игре>
+    </SelectGame>
+
+    <Exclusions>
+      <Исключения>Ausnahmen</Исключения>
+      <Выбрасываемые_предметы>Löschbare Gegenstände:</Выбрасываемые_предметы>
+      <Предметы_в_сумках>Gegenstände in Taschen:</Предметы_в_сумках>
+      <Двойной_клик>Doppelklick zum Hinzufügen</Двойной_клик>
+    </Exclusions>
+
+    <Lures>
+      <Наживки>Köder</Наживки>
+      <Обычные_наживки>Standardköder</Обычные_наживки>
+      <Использовать_лучшую_наживку>Besten Köder verwenden</Использовать_лучшую_наживку>
+      <включая_рыбацкие_шляпы>(einschließlich Fischerhüte)</включая_рыбацкие_шляпы>
+      <Дренорские_наживки_для>Draenor-Köder für:</Дренорские_наживки_для>
+      <Улучшения_Дренора>Draenor-Verbesserungen</Улучшения_Дренора>
+      <Крюк_из_острой_кости>Bladebone Hook</Крюк_из_острой_кости>
+      <Гарнизон_Дренора>Draenor Garnison</Гарнизон_Дренора>
+      <Призывать_обитателя_пещер>Höhlenbewohner beschwören</Призывать_обитателя_пещер>
+      <Наживки_Легиона>Legion-Köder</Наживки_Легиона>
+      <Использовать_наживки>Köder verwenden</Использовать_наживки>
+      <Использовать_редкую_рыбу>Seltenen Fisch verwenden</Использовать_редкую_рыбу>
+
+      <DraenorLures>
+        <NameItemId>
+          <Name>Jawless Skulker</Name>
+          <ItemID>110274</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Fat Sleeper</Name>
+          <ItemID>110289</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Blind Lake Sturgeon</Name>
+          <ItemID>110290</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Fire Ammonite</Name>
+          <ItemID>110291</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Sea Scorpion</Name>
+          <ItemID>110292</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Abyssal Gulper Eel</Name>
+          <ItemID>110293</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Blackwater Whiptail</Name>
+          <ItemID>110294</ItemID>
+        </NameItemId>
+        <NameItemId>
+          <Name>Felmouth Frenzy</Name>
+          <ItemID>128229</ItemID>
+        </NameItemId>
+      </DraenorLures>
+    </Lures>
+
+    <Registration>
+      <Регистрация>Registrierung</Регистрация>
+      <Код_регистрации>Registrierungscode:</Код_регистрации>
+      <Активировать>Aktivieren</Активировать>
+    </Registration>
+
+    <Containers>
+      <Контейнеры>Container</Контейнеры>
+      <Открываемые_контейнеры>Zu öffnende Container:</Открываемые_контейнеры>
+      <Предметы_в_сумках>Gegenstände in Taschen:</Предметы_в_сумках>
+      <Двойной_клик>Doppelklick zum Hinzufügen</Двойной_клик>
+    </Containers>
+
+<Trial>
+  <Триал>Testversion</Триал>
+  <Купить>Kaufen</Купить>
+  <Ввести_ключ>Code eingeben</Ввести_ключ>
+  <Выход>Beenden</Выход>
+  <Лицензия_истекла>Lizenz abgelaufen</Лицензия_истекла>
+  <Срок_действия_вашей_лицензии_завершён>Ihre Lizenz ist abgelaufen. Um die Nutzung fortzusetzen — kaufen Sie einen neuen Aktivierungscode. Sie können auch die Einstellungsdatei löschen und die Testversion mit Einschränkungen verwenden.</Срок_действия_вашей_лицензии_завершён>
+  <Пробный_период_завершён>Die heutige Testzeit ist abgelaufen</Пробный_период_завершён>
+  <Вы_использовали_лимит_пробного_времени>Sie haben das verfügbare Testzeitlimit für heute aufgebraucht. Um fortzufahren — kaufen Sie eine Lizenz oder versuchen Sie es morgen erneut.</Вы_использовали_лимит_пробного_времени>
+  <Лицензия_на_другом_устройстве>Lizenz auf einem anderen Gerät aktiv</Лицензия_на_другом_устройстве>
+  <Лицензия_уже_используется>Diese Lizenz wird bereits auf einem anderen Computer verwendet. Um hier fortzufahren — schließen Sie das Programm dort oder erwerben Sie einen zusätzlichen Aktivierungscode. Sie können auch in den Testmodus wechseln, indem Sie die Einstellungsdatei löschen.</Лицензия_уже_используется>
+  <Превышено_число_запусков>Anzahl gleichzeitiger Starts überschritten</Превышено_число_запусков>
+  <Вы_запустили_программу_на_максимуме>Sie haben das Programm auf der maximal zulässigen Anzahl von Geräten oder Instanzen gestartet. Um fortzufahren — schließen Sie zusätzliche Instanzen oder erweitern Sie Ihre Lizenz. Der Testmodus kann ebenfalls aktiviert werden, indem Sie die Einstellungsdatei löschen.</Вы_запустили_программу_на_максимуме>
+  <Лицензия_не_активирована>Lizenz nicht aktiviert</Лицензия_не_активирована>
+  <Чтобы_продолжить_работу_активируйте>Um fortzufahren, aktivieren Sie das Programm mit einem Lizenzcode oder verwenden Sie den Testmodus. Zum Aktivieren des Testmodus löschen Sie die Einstellungsdatei.</Чтобы_продолжить_работу_активируйте>
+</Trial>
+
+
+    <Vendor>
+      <Продажа_ремонт>Verkauf / Reparatur</Продажа_ремонт>
+      <Ремонтировать_вещи_за_счет_гильдии>Mit Gildengold reparieren (falls verfügbar)</Ремонтировать_вещи_за_счет_гильдии>
+      <Продавать_из_сумок>Aus Taschen verkaufen:</Продавать_из_сумок>
+      <Продавать_предметы_по_фильтру>Nach Filter verkaufen:</Продавать_предметы_по_фильтру>
+      <Продавать_предметы_по_цвету>Nach Farbe verkaufen:</Продавать_предметы_по_цвету>
+      <Gray>G</Gray>
+      <White>W</White>
+      <Green>G</Green>
+      <Blue>B</Blue>
+      <Продавать_предметы_с_названием>Gegenstände mit Namen verkaufen:</Продавать_предметы_с_названием>
+      <Исключать_из_продажи_предметы_с_названием>Benannte Gegenstände ausschließen:</Исключать_из_продажи_предметы_с_названием>
+      <Исключить_из_продажи_ВоЕ>Blaue BoE nicht verkaufen</Исключить_из_продажи_ВоЕ>
+      <Продавать_только_следующие>Nur folgende verkaufen:</Продавать_только_следующие>
+      <Продавать_все_кроме>Alles verkaufen außer:</Продавать_все_кроме>
+      <Купить_недостающие_предметы>Fehlende Gegenstände kaufen</Купить_недостающие_предметы>
+      <Предмет>Gegenstand</Предмет>
+      <Шт>Stk.</Шт>
+      <Применить>Anwenden</Применить>
+      <Отмена>Abbrechen</Отмена>
+      <Содержимое_ваших_сумок>Tascheninhalt</Содержимое_ваших_сумок>
+      <Двойной_клик_по_предмету>Doppelklick zum Hinzufügen</Двойной_клик_по_предмету>
+    </Vendor>
+  </Forms>
+</Language>
